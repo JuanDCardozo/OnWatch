@@ -1,4 +1,4 @@
-# PebbleGuard
+# onWatch
 onWatch - HackUCSC2016 
 
 Created by:
